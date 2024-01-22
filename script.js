@@ -9,8 +9,17 @@ const quotes = [
     "Don't count the days, make the days count.",
     "If you want to achieve greatness stop asking for permission.",
     "Don't watch the clock; do what it does. Keep going.",
-    "The future belongs to those who believe in the beauty of their dreams."
-    // Add more quotes as needed
+    "The future belongs to those who believe in the beauty of their dreams.",
+    "The quick brown fox jumps over the lazy dog.",
+    "To be or not to be, that is the question.",
+    "All that glitters is not gold.",
+    "A journey of a thousand miles begins with a single step.",
+    "In the beginning God created the heavens and the earth.",
+    "Two roads diverged in a wood, and I—I took the one less traveled by.",
+    "The only thing we have to fear is fear itself.",
+    "You miss 100% of the shots you don't take.",
+    "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "Life is what happens when you're busy making other plans."
 ];
 
 document.getElementById('quote-text').textContent = getRandomQuote();
